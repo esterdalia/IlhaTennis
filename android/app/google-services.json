@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659463711661",
+    "project_id": "ilhatennisav2",
+    "storage_bucket": "ilhatennisav2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659463711661:android:b7197152f8e2ce8c824f24",
+        "android_client_info": {
+          "package_name": "com.reactnativefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659463711661-9k0jjdb5bo1uktj4p5o1ovoedblbq4ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLVqwWInzliHGb6k74hHCbBFlfBAfukz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659463711661-9k0jjdb5bo1uktj4p5o1ovoedblbq4ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
